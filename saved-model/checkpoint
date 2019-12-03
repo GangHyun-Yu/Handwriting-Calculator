@@ -1,0 +1,3 @@
+model_checkpoint_path: "C:\\Project_20180801\\tensorflow-hangul-recognition-master\\saved-model\\hangul_tensorflow.chkp"
+all_model_checkpoint_paths: "C:\\Project_20180801\\tensorflow-hangul-recognition-master\\saved-model\\hangul_tensorflow.chkp-0"
+all_model_checkpoint_paths: "C:\\Project_20180801\\tensorflow-hangul-recognition-master\\saved-model\\hangul_tensorflow.chkp"
